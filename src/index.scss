@@ -1,3 +1,19 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+$mycolor: blue;
+
+$theme: $mycolor;
+
+$theme1: white;
+$theme2: blue;
+$theme3: blue;
+$theme4: blue;
+$theme5: blue;
+
+body {
+  background: $theme1;
+}
+
 html, body, #root {
   margin: 0;
   height: 100%;
